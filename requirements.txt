@@ -1,8 +1,8 @@
 fastapi
 uvicorn
+pydantic
 pandas
+numpy
 scikit-learn
 joblib
-pydantic
-streamlit
-requests
+xgboost
